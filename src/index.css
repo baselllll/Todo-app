@@ -1,0 +1,17 @@
+
+.container{
+  padding: 20px;
+  width: 450px;
+  height: 353px;
+  margin: 20px auto;
+}
+
+.formaddition{
+  position: absolute;
+    top: 72px;
+    right: 127px;
+    width: 335px;
+    height: 308px;
+    text-align: center;
+    margin: -4px auto;
+}
